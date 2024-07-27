@@ -61,7 +61,9 @@ Training and Evaluation:
 The models are trained on the training dataset and validated on the validation dataset. Various metrics are used to monitor performance, including accuracy, loss, precision, recall, AUC, and F1 score.
 
 Results: 
+
 The Basic CNN outperformed other architectures with a training accuracy of 99.01%, precision of 95.20%, recall of 90.41%, and F1-score of 89.79%. The depthwise CNN, attention CNN, and DenseNet achieved training accuracies of 91.95%, 83.03%, and 85.96%, respectively.
 
 Contributing: 
+
 Contributions are welcome! Please fork the repository and submit pull requests.
